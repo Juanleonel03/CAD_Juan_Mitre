@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Asignación 1: Software de CAD",
+    "descripcion": "En esta asignación 1 vimos como funcionan los software de CAD. \n Diseño Asistido por Computadora (CAD, por sus siglas en inglés) es una Ciencia que abarca las matemáticas y tiene herramientas digitales utilizada para crear, modificar, analizar y optimizar diseños. En cuánto a los software estos les permiten a los usuarios desarrollar representaciones visuales precisas de objetos y sistemas en 2D, 3D y ahora 4D. Las funciones de los software CAD incluyen el dibujo, modelado, simulación y análisis de diseños.",
+    "images": ["a1.png", "a11.png", "a12.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/1TvhMHX0XkXBMR9RyNyQUSYlIRQOixLnn",
+    "clase": "tarea"
+  },
+  {
+    "name": "Asignación 2: Templos y religiones",
+    "descripcion": "En esta asignación 2 he creado una presentación que explora la fascinante religión de los aztecas y su relación con sus majestuosos templos. En ella, se detalla cómo los aztecas rendían culto a sus dioses, los rituales que realizaban, y la importancia simbólica y arquitectónica de sus templos, destacando lugares como el Templo Mayor. Esta presentación busca resaltar el profundo vínculo entre su espiritualidad y sus impresionantes construcciones religiosas.",
+    "images": ["a2.png", "a21.png", "a22.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/1EjqETQq09cRY5PZKnE7jTKxygjKqx6bo",
+    "clase": "tarea"
+  },
+  {
+    "name": "Asignación 3: Monedas y escudos",
+    "descripcion": "Descripción de la asignación 3",
+    "images": ["a31.png", "a3.png", "a32.png", "a33.png", "a34.png", "a35.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/1sUVNUsiCexvJKPHQjx9EiTqrojxTw8MG",
+    "clase": "tarea"
+  },
+  {
+    "name": "Asignación 4: Circuitos y Robots",
+    "descripcion": "Para la asignación 4 se diseñó robots y circuitos. La idea de los robots se remonta a las civilizaciones antiguas. En la mitología griega, se hablaba de autómatas, como Talos, un gigante mecánico que protegía Creta. Sin embargo, el concepto moderno de robot surgió en 1920 con la obra R.U.R. del dramaturgo checo Karel Čapek, quien acuñó el término robot , derivado de la palabra eslava robota, que significa trabajo forzado. En la realidad, los primeros intentos de crear máquinas automáticas comenzaron con los relojeros del Renacimiento y los autómatas mecánicos del siglo XVIII. Sin embargo, fue durante el siglo XX, con los avances en electrónica y computación, que se desarrollaron robots funcionales. En 1961, el primer robot industrial, Unimate, fue instalado en una fábrica de General Motors para trabajar en la línea de ensamblaje, marcando el inicio de la robótica moderna",
+    "images": ["a4.png", "a41.png", "a42.png", "a43.png", "a44.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/19sK4GTBWqPCwHSoykHOXlbAp-eJJrxf8",
+    "clase": "tarea"
+  },
+  {
+    "name": "Asignación 5: Microprocesadores y memorias RAM",
+    "descripcion": "La memoria RAM y los microprocesadores son componentes esenciales en los sistemas informáticos modernos, trabajando en conjunto para garantizar un rendimiento eficiente y rápido. La memoria RAM (Random Access Memory) proporciona un almacenamiento temporal para los datos que el procesador necesita acceder en tiempo real, facilitando la ejecución fluida de múltiples tareas. Por su parte, los microprocesadores actúan como el cerebro del sistema, encargándose de procesar instrucciones, realizar cálculos y coordinar el flujo de información entre diferentes componentes.",
+    "images": ["a5.png", "a51.png", "a52.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/1hxC5C-rnGUTBksJqggoo40PRoOVnBV2Q",
+    "clase": "tarea"
+  },
+  {
+    "name": "Parcial 1: Fundamentos de CAD y dibujo técnico",
+    "descripcion": "He elaborado un dibujo técnico realizado como parte de un examen parcial. En ella, se muestra el proceso de creación, los detalles técnicos, y las herramientas utilizadas, destacando la precisión y el cumplimiento de las normas establecidas. Este trabajo refleja la aplicación práctica de los conocimientos adquiridos en el curso y su importancia en el desarrollo de habilidades técnicas.",
+    "images": ["ap1.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/1QD_Dyjumr-n5bkHU3RBzA2_EhmeydxrP",
+    "clase": "parcial"
+  },
+  {
+    "name": "Parcial 2: Video de las asignaciones",
+    "descripcion": "En este video explicamos todos las asignaciones hechas a lo largo del semestre, en equipo de dos, mi compañero Miguel Talavera y mi persona Juan Mitre, colocamos y explicamos nuestros modelos y sus respectivas descripciones y la elaboración de cada una de las asignaciones.",
+    "images": ["ap22.png", "ap2.png", "ap21.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/13XsjQDBW2E4tiCoLtWuVGTvBJGoTO2ix",
+    "clase": "parcial"
+  },
+  {
+    "name": "Parcial 3: Drones y Satélite",
+    "descripcion": "En esta asignación he desarrollado una presentación sobre drones y satélites, destacando su funcionamiento, aplicaciones y contribución al avance tecnológico. La exposición abarca cómo estas tecnologías impactan sectores como la comunicación, la exploración y la seguridad, mostrando su importancia en la vida moderna y su potencial para transformar el futuro.",
+    "images": ["ap3.png", "ap31.png", "ap32.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/1EcheCc_jgHSvn7X9fX8ex7kfp_NwG_sM",
+    "clase": "parcial"
+  },
+  {
+    "name": "Semestral: Ingeniería Ambiental",
+    "descripcion": "Este proyecto semestral presenta un conjunto de diseños interrelacionados con la ingeniería ambiental, destacando el equilibrio entre actividades humanas y la naturaleza. Los diseños incluyen: Ruina: Muestra cómo la naturaleza puede reclamar espacios humanos promoviendo la conservación patrimonial en armonía con los ecosistemas. Glaciar: Representa el impacto del cambio climático en fuentes de agua dulce esenciales, subrayando su protección. Sendero: Un recorrido ecológico que fomenta el ecoturismo responsable, minimizando el impacto ambiental. Mina: Refleja el impacto de la minería en entornos áridos y propone restauración ecológica.Molino de agua: Ejemplifica la autosuficiencia mediante energías renovables y asentamientos sostenibles. Estos diseños integran conceptos clave de sostenibilidad, restauración ambiental y coexistencia entre el desarrollo humano y los recursos naturales.",
+    "images": ["S0.png","S1.png","S2.png","S3.png","S4.png","S5.png"],
+    "link": "https://drive.google.com/drive/u/0/folders/13YQAfTCVxOSMa6fnDQWaxIAVf8Z6sQOu",
+    "clase": "semestral"
+  }
+]
