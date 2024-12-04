@@ -239,3 +239,79 @@ footer {
   display: flex;
   justify-content: center;
 }
+
+@media (min-width: 301px) and (max-width: 580px) {
+  header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  header h1 {
+    margin-right: 0;
+  }
+
+  footer {
+    padding-bottom: 20px;
+  }
+
+  .asignaciones {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .asig {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .asig article {
+    width: 100vw;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .asig .texto {
+    width: 100vw;
+  }
+
+  .asig .texto p {
+
+    font-size: 12px;
+  }
+
+  .asig h2 {
+    text-align: center;
+  }
+  .asignaciones h3{
+    display: none;
+  }
+
+  .images-rec {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .asig .imagen {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}
